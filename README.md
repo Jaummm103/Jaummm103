@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho com suporte de TI
 - 🌱 Estudando Ciência da computação na Universidade Paulista (UNIP)
 - 🎯 Tenho interesse com: Python, HTML, CSS, JavaScript e C.
-- ☀️ if the day is bad, tomorrow will get better ☀️
+- ☀️ If the day is bad, tomorrow will get better ☀️
 
 <br>
 
