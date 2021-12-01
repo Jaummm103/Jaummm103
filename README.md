@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-- 🔭 Hoje trabalho com suporte de TI
+- 🔭 Atualmente sou estagiário do banco Itaú
 - 🌱 Estudando Ciência da computação na Universidade Paulista (UNIP)
 - 🎯 Tenho interesse com: Python, HTML, CSS, JavaScript e C.
 - ☀️ If the day's bad, tomorrow will get better ☀️
