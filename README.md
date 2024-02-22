@@ -23,7 +23,7 @@
   <img align="center" alt="jaum-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jaum-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jaum-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jaum-visualS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="jaum-SQL" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="center" alt="jaum-VScode" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="jaum-Windows" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="jaum-git" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
